@@ -1,1 +1,1 @@
-# K-means
+# It contains K-means algorithm
